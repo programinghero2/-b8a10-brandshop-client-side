@@ -1,0 +1,28 @@
+.feature-swiper {
+  width: 100%;
+  height: 100%;
+}
+
+@media only screen and (max-width: 640px) {
+  .feature-slide {
+    height: 235px;
+    width: 175px !important;
+  }
+}
+
+.feature-slide {
+  text-align: center;
+  font-size: 18px;
+  background: #fff;
+  margin-bottom: 40px;
+  width: 300px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.feature-slide img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}

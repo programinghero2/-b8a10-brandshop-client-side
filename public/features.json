@@ -1,0 +1,63 @@
+[
+    {
+      "id": 1,
+      "img": "https://i.ibb.co/RCyXBRk/img1.jpg",
+      "name": "Apple MacBook Air",
+      "brand": "Apple"
+    },
+    {
+      "id": 2,
+      "img": "https://i.ibb.co/vHMw92W/img2.jpg",
+      "name": "MacBook Pro",
+      "brand": "Apple"
+    },
+    {
+      "id": 3,
+      "img": "https://i.ibb.co/w642FxH/img3.png",
+      "name": "vivo Y36",
+      "brand": "Vivo"
+    },
+    {
+      "id": 4,
+      "img": "https://i.ibb.co/gg4gv69/img4.png",
+      "name": "Galaxy A73 5G",
+      "brand": "Samsung"
+    },
+    {
+      "id": 5,
+      "img": "https://i.ibb.co/P5qs1nQ/img5.jpg",
+      "name": "Galaxy A14 5G",
+      "brand": "Samsung"
+    },
+    {
+      "id": 6,
+      "img": "https://i.ibb.co/R7m1kKS/img6.png",
+      "name": "Google Pixel 6a",
+      "brand": "Google"
+    },
+    {
+      "id": 7,
+      "img": "https://i.ibb.co/2qCCDPx/img8.jpg",
+      "name": "laptop go 2",
+      "brand": "Microsoft"
+    },
+    {
+      "id": 8,
+      "img": "https://i.ibb.co/8c2QXC5/img9.webp",
+      "name": "Surface Laptop 3",
+      "brand": "Microsoft"
+    },
+    {
+      "id": 9,
+      "img": "https://i.ibb.co/6rXFGRL/img10.png",
+      "name": "Vivo Y17s",
+      "brand": "Vivo"
+    },
+    {
+      "id": 10,
+      "img": "https://i.ibb.co/ZgVWSPs/img11.jpg",
+      "name": "sony xperia 5 ii",
+      "brand": "Sony"
+    }
+  ]
+  
